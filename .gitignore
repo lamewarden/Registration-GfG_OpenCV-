@@ -5,11 +5,14 @@ __pycache__/
 
 # Images
 *.jpg
-*.png
+# *.png
 *.tiff
 *.tif
 *.csv*
 extensions.json
+output*.png
+.proofs/
+
 
 # C extensions
 *.so
